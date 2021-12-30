@@ -79,7 +79,7 @@
 						</p>
 						<p>
 							<?php
-								printf(_('Son code source est disponible et modifiable sur <a href="%s">le dépôt GitLab</a>.'), 
+								printf(_('Son code source est disponible et modifiable sur <a href="%s">le dépôt Git</a>.'), 
 								WEBSITE_GIT_URL);
 							
 							?>
@@ -88,12 +88,12 @@
 						<p>
 							<?php
 							
-								echo _('Toutes les bonnes volontés sont les bienvenues. ') . _('Si vous ne connaissez pas Git, on peut vous apprendre les 2-3 commandes qui permettront d\'apporter votre pierre à l\'édifice.');
+								echo _('Toutes les bonnes volontés sont les bienvenues. ');
 							?>
 						<p>
 							<?php
 								printf(_('Les questions concernant à la modification de ce site peuvent être posées ' .
-								'sur le <a href="%s">le canal #cesium-website</a> (si vous n\'avez pas encore de compte sur le chat, vous devrez en créer un pour lire et participer).'), WEBSITE_COMMUNICATION_URL);
+								'sur <a href="%s">l\'espace de discussion correspondant</a>.'), WEBSITE_COMMUNICATION_URL);
 							?>
 						</p>
 					</section>
