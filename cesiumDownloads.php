@@ -58,7 +58,7 @@ $cesiumDownloads =
 		'url' => sprintf('https://aur.archlinux.org/packages/cesium-desktop-deb'),
 		'img' => 'arch.svg',
 		'desc' => _('A installer via AUR'),
-		'extra' => _('<code>yaourt -S cesium-desktop-deb</code>')
+		'extra' => _('<code>yay -S cesium-desktop-deb</code>')
 	],
 	'windows' => [
 		'title' => 'Windows',
