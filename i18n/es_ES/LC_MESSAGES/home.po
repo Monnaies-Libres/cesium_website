@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-11-07 17:16+0100\n"
-"PO-Revision-Date: 2019-11-07 18:39+0100\n"
+"PO-Revision-Date: 2022-01-08 15:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: ../../../tpl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: home.php\n"
@@ -54,15 +54,15 @@ msgstr "Software libre con licencia %s"
 #: home.php:36
 #, php-format
 msgid "Développeur ?"
-msgstr "Desarrollador de software ?"
+msgstr "¿Eres desarrollador de software?"
 
 #: home.php:37
 msgid "/developpeurs"
-msgstr "/desarrollador"
+msgstr "/desarrolladores"
 
 #: home.php:38
 msgid "Rejoignez-nous !"
-msgstr "Ayúdanos!"
+msgstr "¡Ayúdanos!"
 
 #: home.php:48
 msgid "Cesium : la solution simple<br />pour échanger en monnaie libre"
@@ -70,18 +70,19 @@ msgstr "Cesium : la solución sencilla<br />para cambiar con la moneda libre"
 
 #: home.php:52
 msgid "Sécurisé"
-msgstr "Siguro"
+msgstr "Seguro"
 
 #: home.php:56
 msgid ""
 "Cesium signe numériquement vos transactions avant de les transmettre à la "
 "blockchain de Duniter."
 msgstr ""
-"Cesium firma tus transacciones antes de transmitirles a la blockchain Duniter"
+"Cesium firma tus transacciones antes de transmitirles a la blockchain "
+"Duniter."
 
 #: home.php:60
 msgid "Offert"
-msgstr "Ofrecido"
+msgstr "Gratis"
 
 #: home.php:64
 msgid ""
@@ -89,9 +90,9 @@ msgid ""
 "monnaies libres en général (et à la Ğ1 en particulier), Cesium vous est "
 "offert sans exiger de contre-partie. "
 msgstr ""
-"Cesium está codificada con amor por una comunidad de personas que creen en "
+"Cesium está desarrollada con amor por una comunidad de personas que creen en "
 "las monedas libres en general (y en la Ğ1 en particular). Se le ofrece "
-"Cesium sin exgir una contraparte."
+"Cesium sin exigir nada a cambio. "
 
 #: home.php:70
 msgid "Libre"
@@ -99,7 +100,7 @@ msgstr "Software libre"
 
 #: home.php:75
 msgid "Cesium est un logiciel libre."
-msgstr "Cesium está un software libre."
+msgstr "Cesium es un software libre."
 
 #: home.php:77
 #, php-format
@@ -107,7 +108,10 @@ msgid ""
 "Vous êtes donc libre d'en consulter le code source (sur <a href=\"%s"
 "\">GitLab</a>), et d'adapter Cesium à vos besoins pour, par exemple, lancer "
 "votre propre monnaie libre."
-msgstr "Puedes ver a su código fuente (sobre <a href=\"%s\">GitLab</a>)."
+msgstr ""
+"Puedes ver y analizar su código fuente (aquí <a href=\"%s\">GitLab</a>), y "
+"adaptar Cesium a tus necesidades para, por ejemplo, lanzar tu propia moneda "
+"gratis."
 
 #: home.php:89
 msgid "Plus que quelques pas<br />avant de recevoir vos premières Ğ1"
@@ -162,7 +166,7 @@ msgstr ""
 
 #: home.php:145
 msgid "/avis"
-msgstr ""
+msgstr "/aviso"
 
 #: home.php:152
 msgid "Ce qu'elles et ils en pensent"

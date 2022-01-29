@@ -70,16 +70,16 @@
 					</nav>
 
 					<section id="about">
-						<h5><?php echo _('Modifier ce site'); ?></h5>
+						<h5><?php echo dgettext('menu', 'Modifier ce site'); ?></h5>
 
 						<p>
 							<?php
-								echo _('Ce site est édité par la communauté Ğ1.');
+								echo dgettext('menu', 'Ce site est édité par la communauté Ğ1.');
 							?>
 						</p>
 						<p>
 							<?php
-								printf(_('Son code source est disponible et modifiable sur <a href="%s">le dépôt Git</a>.'), 
+								printf( dgettext('menu', 'Son code source est disponible et modifiable sur <a href="%s">le dépôt Git</a>.'), 
 								WEBSITE_GIT_URL);
 							
 							?>
@@ -88,11 +88,11 @@
 						<p>
 							<?php
 							
-								echo _('Toutes les bonnes volontés sont les bienvenues. ');
+								echo dgettext('menu', 'Toutes les bonnes volontés sont les bienvenues. ');
 							?>
 						<p>
 							<?php
-								printf(_('Les questions concernant à la modification de ce site peuvent être posées ' .
+								printf( dgettext('menu', 'Les questions concernant à la modification de ce site peuvent être posées ' .
 								'sur <a href="%s">l\'espace de discussion correspondant</a>.'), WEBSITE_COMMUNICATION_URL);
 							?>
 						</p>

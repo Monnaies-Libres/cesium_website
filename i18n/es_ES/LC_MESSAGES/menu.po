@@ -1,46 +1,129 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2019-10-29 20:25+0100\n"
-"PO-Revision-Date: 2019-10-29 20:25+0100\n"
+"POT-Creation-Date: 2022-01-08 15:09+0100\n"
+"PO-Revision-Date: 2022-01-29 10:11+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: head.php\n"
+"X-Poedit-SearchPath-1: foot.php\n"
 
-#: head.php:7
-msgid "Cesium Ğ1"
-msgstr "Cesium Ğ1"
+#: foot.php:7
+msgid "Plan du site"
+msgstr "Mapa del sitio"
 
-#: head.php:70
-msgid "/"
-msgstr "/"
-
-#: head.php:71
+#: foot.php:13 head.php:75
 msgid "Accueil"
 msgstr "Inicio"
 
-#: head.php:74
+#: foot.php:17 head.php:78
 msgid "/fonctionnalites"
 msgstr "/caracteristicas"
 
-#: head.php:75
+#: foot.php:18 head.php:79
 msgid "Fonctionnalités"
 msgstr "Caracteristicas"
 
-#: head.php:78
+#: foot.php:22 head.php:82
 msgid "/telechargement"
 msgstr "/descargar"
 
-#: head.php:79
+#: foot.php:23
+msgid "Téléchargement"
+msgstr "Descargas"
+
+#: foot.php:28
+msgid "Support"
+msgstr "Soporte"
+
+#: foot.php:33
+msgid "/mentions-legales"
+msgstr "/condiciones-legales"
+
+#: foot.php:34
+msgid "Mentions légales"
+msgstr "Condiciones legales"
+
+#: foot.php:42
+msgid "Développeur ? Rejoignez-nous !"
+msgstr "¿Eres desarrollador? ¡Únete!"
+
+#: foot.php:48
+msgid "Forum Cesium"
+msgstr "Foro Cesium"
+
+#: foot.php:53
+msgid "Venez faire connaissance"
+msgstr "Ven y conócenos"
+
+#: foot.php:58
+msgid "Forge GitLab de Cesium"
+msgstr "Haz un ‘Fork’ en GitLab de Cesium"
+
+#: foot.php:63
+msgid "Guide du développement Cesium"
+msgstr "Guía de desarrollo web de Cesium"
+
+#: foot.php:73
+msgid "Modifier ce site"
+msgstr "Modificar el sitio web"
+
+#: foot.php:77
+msgid "Ce site est édité par la communauté Ğ1."
+msgstr "Este sitio es publicado por la comunidad Ğ1."
+
+#: foot.php:82
+#, php-format
+msgid ""
+"Son code source est disponible et modifiable sur <a href=\"%s\">le dépôt "
+"Git</a>."
+msgstr ""
+"Su código fuente está disponible y editable en el <a "
+"href=“%s”>repositorio de Git</a>."
+
+#: foot.php:91
+msgid "Toutes les bonnes volontés sont les bienvenues. "
+msgstr "Todas las aportaciones voluntarias son bienvenidas. "
+
+#: foot.php:95
+#, php-format
+msgid ""
+"Les questions concernant à la modification de ce site peuvent être posées "
+"sur <a href=\"%s\">l'espace de discussion correspondant</a>."
+msgstr ""
+"Las preguntas sobre la modificación de este sitio se pueden hacer en el "
+"<a href=“%s”>espacio de discusión correspondiente</a>."
+
+#: foot.php:102
+msgid "Choix de langue"
+msgstr "Elección de idioma"
+
+#: head.php:31 head.php:37
+msgid "/accueil"
+msgstr "/inicio"
+
+#: head.php:31 head.php:37
+msgid "/Cesium-G1-maquette.png"
+msgstr "/Cesium-G1-modelo.png"
+
+#: head.php:74
+msgid "/"
+msgstr "/"
+
+#: head.php:83
 msgid "Télécharger"
 msgstr "Descargar"
+
+#: head.php:87
+msgid "Demo"
+msgstr "Demo"
 
 #: head.php:90
 msgid "/tutoriel-cesium"
@@ -49,6 +132,17 @@ msgstr "/tutorial-cesium"
 #: head.php:91
 msgid "Tutoriel"
 msgstr "Tutorial"
+
+#: head.php:94
+msgid "/merci"
+msgstr "/gracias"
+
+#: head.php:95
+msgid "Encouragez-nous !"
+msgstr "¡Anímate!"
+
+#~ msgid "Cesium Ğ1"
+#~ msgstr "Cesium Ğ1"
 
 #~ msgid "/creer-compte-cesium-g1"
 #~ msgstr "/registrarse"
