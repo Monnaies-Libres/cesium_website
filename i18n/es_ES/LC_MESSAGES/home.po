@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-11-07 17:16+0100\n"
-"PO-Revision-Date: 2022-01-08 15:13+0100\n"
+"PO-Revision-Date: 2022-03-22 10:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -12,6 +12,7 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: ../../../tpl\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: home.php\n"
 
 #: home.php:4
@@ -23,7 +24,7 @@ msgid ""
 "Cesium est l'application la plus intuitive pour gérer votre portefeuille en "
 "monnaie-libre Ğ1."
 msgstr ""
-"Cesium es la aplicación más intuitiva para cambiar usando la moneda libre Ğ1."
+"Cesium te permite hacer intercambios con moneda libre Ğ1 de forma intuitiva."
 
 #: home.php:16 home.php:145
 msgid "/accueil"
@@ -66,7 +67,7 @@ msgstr "¡Ayúdanos!"
 
 #: home.php:48
 msgid "Cesium : la solution simple<br />pour échanger en monnaie libre"
-msgstr "Cesium : la solución sencilla<br />para cambiar con la moneda libre"
+msgstr "Cesium: la solución sencilla<br />para intercambiar con moneda libre"
 
 #: home.php:52
 msgid "Sécurisé"
@@ -77,7 +78,7 @@ msgid ""
 "Cesium signe numériquement vos transactions avant de les transmettre à la "
 "blockchain de Duniter."
 msgstr ""
-"Cesium firma tus transacciones antes de transmitirles a la blockchain "
+"Cesium firma tus transacciones antes de transmitirles a la cadena de bloques "
 "Duniter."
 
 #: home.php:60
@@ -96,7 +97,7 @@ msgstr ""
 
 #: home.php:70
 msgid "Libre"
-msgstr "Software libre"
+msgstr "Libre"
 
 #: home.php:75
 msgid "Cesium est un logiciel libre."
@@ -115,7 +116,7 @@ msgstr ""
 
 #: home.php:89
 msgid "Plus que quelques pas<br />avant de recevoir vos premières Ğ1"
-msgstr "Sólo algunos clics<br />antes de recibir sus primeras Ğ1"
+msgstr "Sólo algunos clics<br />antes de recibir tus primeras Ğ1"
 
 #: home.php:98
 msgid "Téléchargez Cesium"
@@ -127,8 +128,8 @@ msgid ""
 "Rendez-vous sur <a href=\"%s\">la page Téléchargement</a> pour récupérer le "
 "fichier qui convient à votre système d'exploitation."
 msgstr ""
-"Visita <a href=\"%s\">la página de Descarga</a> para obtener el fichero que "
-"está apropiado a tu sistema operativo."
+"Visita <a href=\"%s\">la página de Descarga</a> para obtener el fichero "
+"apropiado para a tu sistema operativo."
 
 #: home.php:115
 msgid "Créez un compte"
@@ -139,18 +140,17 @@ msgid ""
 "Sur l'accueil, cliquez sur \"Créer un compte\", puis \"Commencer\" et "
 "\"Simple portefeuille\"."
 msgstr ""
-"Haz un clic sobre \"Create an account\", y \"Start\" y elige\"Simple wallet"
-"\"."
+"Haz un clic sobre \"Crear una cuenta gratis”, y “Empezar” y elige “Monedero "
+"simple“."
 
 #: home.php:122
 msgid "Choisissez un identifiant secret et un mot de passe tout aussi secret."
-msgstr "Elige tu login y tu código."
+msgstr "Elige tu frase secreta y tu contraseña."
 
 #: home.php:123
 msgid ""
 "Mémorisez-les bien car il ne sera pas possible de les retrouver ensuite."
-msgstr ""
-"Memorizales bien porche, si les pierdes después, no podría encontrarlos."
+msgstr "Memorízalas bien por que si las olvidas no podrás volver a acceder."
 
 #: home.php:132
 msgid "Recevez des paiements"
@@ -161,8 +161,8 @@ msgid ""
 "Cliquez sur votre clef publique, copiez-la et transmettez-la à la personne "
 "qui souhaite vous faire un virement en Ğ1."
 msgstr ""
-"Clica sobre tu clave publica para copiarla. Envíala a la persona que quiere "
-"enviarte Ğ1."
+"Haz clic sobre tu clave publica para copiarla. Envíala a la persona que "
+"quiere enviarte Ğ1."
 
 #: home.php:145
 msgid "/avis"
@@ -170,8 +170,8 @@ msgstr "/aviso"
 
 #: home.php:152
 msgid "Ce qu'elles et ils en pensent"
-msgstr ""
+msgstr "Lo que piensan"
 
 #: home.php:180
 msgid "Cesium partout"
-msgstr "Cesium en todas partes"
+msgstr "Cesium para todo"

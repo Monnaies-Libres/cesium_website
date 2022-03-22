@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-11-07 17:10+0100\n"
-"PO-Revision-Date: 2019-11-07 17:14+0100\n"
+"PO-Revision-Date: 2022-03-22 10:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: tpl/download.php\n"
@@ -17,20 +17,20 @@ msgstr ""
 
 #: cesiumDownloads.php:10
 msgid "Disponible directement sur le Play Store"
-msgstr "Descarga del Play Store"
+msgstr "Descargar desde Play Store"
 
 #: cesiumDownloads.php:11
 #, php-format
 msgid "(ou <a href=\"%s\">télécharger le fichier .apk</a>)"
-msgstr "(o <a href=\"%s\">descarga el archivo .apk</a>)"
+msgstr "(o <a href=\"%s\">descargar el archivo .apk</a>)"
 
 #: cesiumDownloads.php:17
 msgid "Disponible sur l'App Store"
-msgstr "Descarga del App Store"
+msgstr "Disponible en el App Store"
 
 #: cesiumDownloads.php:24
 msgid "Paquet .deb pour Debian ou Ubuntu"
-msgstr ".deb<br /> para Debian o Ubuntu"
+msgstr "Paquete .deb para Debian o Ubuntu"
 
 #: cesiumDownloads.php:25
 msgid "En cas de problème&nbsp;:"
@@ -38,43 +38,35 @@ msgstr "Si encuentra un problema&nbsp;:"
 
 #: cesiumDownloads.php:31
 msgid "Installateur .exe pour Windows"
-msgstr ".exe<br />para Windows"
+msgstr "Instalador para .exe para Windows"
 
 #: cesiumDownloads.php:32
 msgid "Lancez le .exe et suivez les instructions à l'écran"
-msgstr "Sigue las instrucciones."
+msgstr "Ejecuta el .exe y sigue las instrucciones"
 
 #: cesiumDownloads.php:38
 msgid "Version web fonctionnant sous Mac"
-msgstr "Versión web<br />que funciona con Mac"
+msgstr "Versión web que funciona con Mac"
 
 #: cesiumDownloads.php:39
 msgid "Décompressez le fichier .zip et ouvrez le fichier index.html"
-msgstr ""
-"Unzip el .zip<br />\n"
-"y abre el archivo index.html"
+msgstr "Descomprime el .zip y abre el archivo index.html"
 
 #: cesiumDownloads.php:45
 msgid "Paquet pour Yunohost"
-msgstr ""
-"Programa para\n"
-"Yunohost"
+msgstr "Programa para Yunohost"
 
 #: cesiumDownloads.php:52
 msgid "Pour une installation sur un serveur web"
-msgstr ""
-"Para instalar Cesium<br />\n"
-"sobre un servidor web"
+msgstr "Para instalar Cesium sobre un servidor web"
 
 #: cesiumDownloads.php:56
 msgid "Livrables"
-msgstr ""
+msgstr "Disponible"
 
 #: cesiumDownloads.php:59
 msgid "Toutes versions disponibles sur GitHub"
-msgstr ""
-"Todas las versionas<br />\n"
-"disponible sobre GitHub"
+msgstr "Todas las versiones disponibles sobre GitHub"
 
 #: tpl/download.php:3
 msgid "Télécharger et installer"

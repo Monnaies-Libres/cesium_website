@@ -2,21 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-10-30 14:50+0100\n"
-"PO-Revision-Date: 2019-11-07 18:34+0100\n"
+"PO-Revision-Date: 2022-03-22 10:40+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.1.1\n"
 "X-Poedit-Basepath: ../../../contents\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: features.php\n"
 
 #: features.php:3 features.php:14
 msgid "Fonctionnalités"
-msgstr "Caracteristicas"
+msgstr "Características"
 
 #: features.php:4
 msgid ""
@@ -93,8 +93,8 @@ msgid ""
 "Il suffit pour cela de partager votre clef publique à la personne qui "
 "souhaite vous en envoyer."
 msgstr ""
-"Todo lo que necesita hacer es compartir su clave pública con la persona que "
-"quiere enviárse Ğ1."
+"Todo lo que necesitas hacer es compartir tu clave pública con la persona que "
+"quiere enviarse Ğ1."
 
 #: features.php:73
 msgid "/recevoir.png"
@@ -108,7 +108,8 @@ msgstr "Buscar por nombre"
 msgid ""
 "Trouvez des membres de la Ğ1 d'après leur nom, prénom ou identifiant dans la "
 "blockchain."
-msgstr "Encuentra miembros Ğ1 por su apellido, nombre o login en la blockchain"
+msgstr ""
+"Encuentra miembros Ğ1 por su apellido, nombre o login en la blockchain."
 
 #: features.php:80
 msgid "/recherche-par-nom.png"
@@ -123,7 +124,7 @@ msgid ""
 "Dans Cesium, il est facile de faire un virement en Ğ1 pour régler un achat "
 "ou faire un don."
 msgstr ""
-"En Cesium, es fácile enviar Ğ1 para pagar una compra o hacer una donación."
+"En Cesium, es fácil enviar Ğ1 para pagar una compra o hacer una donación."
 
 #: features.php:87
 msgid "/envoyer.png"
@@ -179,7 +180,7 @@ msgstr ""
 
 #: features.php:108
 msgid "Vous pouvez aussi y référencer gratuitement votre entreprise."
-msgstr "También puede hacer referencia a su empresa. ¡Es gratis!"
+msgstr "También puede hacer referencia a su empresa. Es gratis."
 
 #: features.php:110
 msgid "/pages-jaunes.png"
@@ -199,7 +200,7 @@ msgstr ""
 
 #: features.php:116
 msgid "Cela vous évite de devoir rechercher le membre par son prénom."
-msgstr "Esto le ahorra tener que buscar al miembro por su nombre."
+msgstr "Esto te ahorra tener que buscar al miembro por su nombre."
 
 #: features.php:117
 msgid "Avec les QR codes, pas de risque de se tromper de destinataire !"
@@ -211,7 +212,7 @@ msgstr "/escaner-de-codigos-QR.jpg"
 
 #: features.php:122
 msgid "Surveillez plusieurs portefeuilles"
-msgstr "Monitorear múltiples carteras"
+msgstr "Gestionar múltiples carteras"
 
 #: features.php:124
 msgid ""
