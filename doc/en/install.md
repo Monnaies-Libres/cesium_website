@@ -67,4 +67,12 @@ with :
 
 In ̀`config.php`, edit $rootURL var according to your setup.
 
+## Configure multilang
 
+```
+# Root, on Debian
+echo -e "ca_ES.UTF-8 UTF-8\nde_DE.UTF-8 UTF-8\nen_GB.UTF-8 UTF-8\neo UTF-8\nes_ES.UTF-8 UTF-8\nit_IT.UTF-8 UTF-8\nfr_FR.UTF-8 UTF-8" >> /etc/locale.gen
+locale-gen
+update-locale
+service php*-fpm restart
+```
