@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-11-07 17:16+0100\n"
-"PO-Revision-Date: 2022-03-22 10:50+0100\n"
+"PO-Revision-Date: 2022-04-21 09:48+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: home.php:122
 msgid "Choisissez un identifiant secret et un mot de passe tout aussi secret."
-msgstr "Elige tu frase secreta y tu contraseña."
+msgstr "Elige tu frase secreta y tu contraseña que solo tú conozcas."
 
 #: home.php:123
 msgid ""
