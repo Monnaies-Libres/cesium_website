@@ -48,7 +48,7 @@ $router =
 		], 
 		[
 			'permalink' => '/developpeurs', 
-			'i18nedPermalink' => dgettext('menu', '/developpeurs'), 
+			'i18nedPermalink' => dgettext('home', '/developpeurs'), 
 			'tpl' => 'jobs.php'
 		],
 		[
